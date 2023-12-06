@@ -1,7 +1,7 @@
 # Maven-Market
 😆 This is my third project on Power BI as part of my learning journey. 
 
-⭐ The data is sourced from the Udemy course 'Microsoft Power BI Desktop for Business Intelligence (2023)' instructed by Marven Analytics, Chris Dutton, and Aarron Parry.
+⭐ The data is sourced from the Udemy course 'Microsoft Power BI Desktop for Business Intelligence (2023)' instructed by Maven Analytics, Chris Dutton, and Aaron Parry.
 
 💬 The analysis is conducted for Maven Market, a cross-border grocery chain operating in Canada, Mexico, and the United States.
 
